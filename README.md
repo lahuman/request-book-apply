@@ -44,13 +44,16 @@ AB|자동책등록프로그램
 
 
 ## Notice
-* <a href="http://lahuman.jabsiri.co.kr/147">Selenide (UI 자동 테스트 툴)<a>에 대한 기초 지식 필요
+* <a href="http://lahuman.jabsiri.co.kr/147">Selenide (UI 자동 테스트 툴)</a>에 대한 기초 지식 필요
+* <a href="http://selenium-release.storage.googleapis.com/index.html">selenium driver</a> 필요
 * JRE 1.8 이상이 설치 되어 있어야 합니다.
 * JRE_HOME 환경 변수가 설정 되어 있어야 합니다.
     * 다음이 path에 추가 되어야 함 
 		* $JRE_HOME$\bin
 
-## 실행 명령어
+## 실행 방법
+eclise 에서 JAVA 파일 실행 하여야 하고, 실행시 arguments로 ID와 PW를 주어야 합니다.
+
 
 ## License
 
